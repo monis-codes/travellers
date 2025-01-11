@@ -20,21 +20,21 @@ export default function HomeScreen() {
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 1: Love me</ThemedText>
+        <ThemedText type="subtitle">Step 1: 1</ThemedText>
         <ThemedText>
-          Tell me you love me by sending a cute pic
+
         </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 2: Love you</ThemedText>
+        <ThemedText type="subtitle">Step 2: 1</ThemedText>
         <ThemedText>
-          Ill love you by going crazy seeing your pic
+
         </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
         <ThemedText type="subtitle">Step 3: Imagine us</ThemedText>
         <ThemedText>
-          Imagine me kissing you in the pic you sent
+
         </ThemedText>
       </ThemedView>
     </ParallaxScrollView>
